@@ -26,4 +26,8 @@ Retrieve a list of number of manufacturer(s) in a given location, with a specifi
 
    5. Open a web browser and navigate to http://localhost:8080 (or the port configured in your application properties) to access the application.
 
+   6. In Postman I have used API with GET request where i got the response with JSON data.
+   PARAM:
+   The URL: http://localhost:8080/api/supplier/query?location=India&natureOfBusiness=medium_scale&manufacturingProcesses=3d_printing&page=0&size=5
+
     
